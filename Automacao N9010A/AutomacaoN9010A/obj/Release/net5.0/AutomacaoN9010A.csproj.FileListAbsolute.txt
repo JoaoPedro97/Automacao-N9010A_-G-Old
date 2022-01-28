@@ -1,0 +1,4 @@
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\AutomacaoN9010A\obj\Release\net5.0\AutomacaoN9010A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\AutomacaoN9010A\obj\Release\net5.0\AutomacaoN9010A.AssemblyInfoInputs.cache
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\AutomacaoN9010A\obj\Release\net5.0\AutomacaoN9010A.AssemblyInfo.cs
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\AutomacaoN9010A\obj\Release\net5.0\AutomacaoN9010A.csproj.CoreCompileInputs.cache

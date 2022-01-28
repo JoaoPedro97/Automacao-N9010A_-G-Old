@@ -1,0 +1,5 @@
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\KeySigthLLib\obj\Release\net5.0\KeySightLib.csproj.AssemblyReference.cache
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\KeySigthLLib\obj\Release\net5.0\KeySightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\KeySigthLLib\obj\Release\net5.0\KeySightLib.AssemblyInfoInputs.cache
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\KeySigthLLib\obj\Release\net5.0\KeySightLib.AssemblyInfo.cs
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\KeySigthLLib\obj\Release\net5.0\KeySightLib.csproj.CoreCompileInputs.cache

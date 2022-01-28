@@ -1,0 +1,7 @@
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\Automacao N9010A\obj\Release\net5.0-windows\Automacao Form.csproj.AssemblyReference.cache
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\Automacao N9010A\obj\Release\net5.0-windows\Automacao_N9010A.Form1.resources
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\Automacao N9010A\obj\Release\net5.0-windows\Automacao Form.csproj.GenerateResource.cache
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\Automacao N9010A\obj\Release\net5.0-windows\Automacao Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\Automacao N9010A\obj\Release\net5.0-windows\Automacao Form.AssemblyInfoInputs.cache
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\Automacao N9010A\obj\Release\net5.0-windows\Automacao Form.AssemblyInfo.cs
+C:\Users\10087959\Documents\Visual Studio 2022\Automacao-N9010A_-G-Old\Automacao N9010A\Automacao N9010A\obj\Release\net5.0-windows\Automacao Form.csproj.CoreCompileInputs.cache

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "I3cNYoBLZLuMrVjfNNFn1evXAZKIpl1T2cyI1pwPlTZ3Wu9D+5MzW72TvHXd/k5dJv5V5rr2GAXmdkIn9MWd5w==",
+  "dgSpecHash": "+/kkn2yhjY0rLDWwYIXMpIXNEZQ7ssT896YJbPdtc5VFxT9fKG3b5DzYSZHrgw/Xug9/RFaLWTqG1OWYOUaFww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\80400197\\source\\repos\\Automacao N9010A\\AutomacaoN9010A\\AutomacaoN9010A.csproj",
+  "projectFilePath": "C:\\Users\\10087959\\Documents\\Visual Studio 2022\\Automacao-N9010A_-G-Old\\Automacao N9010A\\AutomacaoN9010A\\AutomacaoN9010A.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\80400197\\.nuget\\packages\\rsinstrument\\1.15.0\\rsinstrument.1.15.0.nupkg.sha512"
+    "C:\\Users\\10087959\\.nuget\\packages\\rsinstrument\\1.15.0\\rsinstrument.1.15.0.nupkg.sha512",
+    "C:\\Users\\10087959\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\10087959\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\10087959\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
