@@ -15,7 +15,12 @@
       "ProjectGuid": "35bad11c-b754-4586-8da0-243559ace454",
       "DisplayName": "AutomacaoN9010A",
       "ColorIndex": 1
+    },
+    "4694ba6c-7c4c-47a7-b067-c683bf906409": {
+      "ProjectGuid": "4694ba6c-7c4c-47a7-b067-c683bf906409",
+      "DisplayName": "Automacao Form",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

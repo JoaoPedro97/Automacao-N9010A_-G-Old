@@ -46,7 +46,7 @@ namespace MatheusProductions.AutomacaoN9010A
                 instr.WriteString("INIT:CONT OFF");
                 string nomeArquivo = "Valores do ensaio.csv";
                 radical.SalvaPrints(instr, nomePasta, nomePrint);
-                instr.WriteString("FETC:OBW:OBW?");
+                instr.WriteString("FETC:OBW:XDB?"); // Alterado no codigo fonte !
                 string val = instr.ReadString();
                 radical.SalvaValores(nomeArquivo, nomePasta, val, valFreq);
                 // -----------------------------------------------------------
@@ -87,7 +87,7 @@ namespace MatheusProductions.AutomacaoN9010A
                 string nomeArquivo = "Valores do ensaio.csv";
                 Thread.Sleep(5000);
                 instr.WriteString("INIT:CONT OFF");
-                instr.WriteString("FETC:OBW:OBW?");
+                instr.WriteString("FETC:OBW:XDB?");
                 string val = instr.ReadString();
                 Thread.Sleep(5000);
                 radical.SalvaValores(nomeArquivo, nomePasta, val, valFreq);
@@ -168,6 +168,7 @@ namespace MatheusProductions.AutomacaoN9010A
                 instr.IO.Timeout = 2000;
                 instr.WriteString("INIT");
                 string nomeArquivo = "Valores do ensaio.csv";
+                Thread.Sleep(15000);
                 //Salvando os Valores do Marker
                 //Cria uma variavel com o nome do arquivo que quer criar
                 radical.Pega_Salva_Marker(instr, nomeArquivo, nomePasta, valFreq, "AVER");
